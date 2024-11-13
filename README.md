@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Ankita, a computer science student currently in my second year. </p>
-<h3>Things I code with:</h3>
+<h3>Tech Stack:</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
