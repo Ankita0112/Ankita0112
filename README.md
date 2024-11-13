@@ -42,7 +42,7 @@
 </p>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita0112&" alt="ankita0112" /></p>
+
 <!--
 **Ankita0112/Ankita0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
