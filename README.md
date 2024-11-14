@@ -47,7 +47,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-flame.vercel.app?user=Ankita0112&theme=highcontrast" alt="GitHub Streak" /></a></p>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita0112&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita0112&layout=compact&theme=highcontrast)
 
 
 
