@@ -42,6 +42,13 @@
 </p>
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-flame.vercel.app?user=Ankita0112&theme=highcontrast" alt="GitHub Streak" /></a></p>
+</p>
+
+
+
 
 <!--
 **Ankita0112/Ankita0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
