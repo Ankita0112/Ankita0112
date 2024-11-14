@@ -8,9 +8,10 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="	https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
@@ -43,10 +44,8 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-flame.vercel.app?user=Ankita0112&theme=highcontrast" alt="GitHub Streak" /></a></p>
-</p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-flame.vercel.app?user=Ankita0112&theme=highcontrast" alt="GitHub Streak" /></a></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita0112&layout=compact&theme=highcontrast)
 
 
